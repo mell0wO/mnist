@@ -77,8 +77,8 @@ pip install tensorflow matplotlib numpy
 
 ### Clone the repository:
 ```bash
-git clone <repository_url>
-cd <repository_name>
+git clone <(https://github.com/mell0wO/mnist)>
+cd <mnist>
 ```
 ### Run the script:
 ```bash
